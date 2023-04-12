@@ -4,9 +4,9 @@ void function main(){
     print("Ola Anne, td bem com voce?")
 
     print("Tudo bem e você?")
-    resposta = "Não"
+    resposta = "Talvez"
 
-    if(resposta == "Talvez"){
+    if(resposta == "Sim"){
         esta_bem()
 
     }else{
