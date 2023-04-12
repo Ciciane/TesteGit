@@ -7,6 +7,7 @@ void function main(){
     resposta = "Talvez"
 
     if(resposta == "Sim"){
+
         esta_bem()
 
     }else{
