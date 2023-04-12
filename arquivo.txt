@@ -1,11 +1,28 @@
-função de teste
+## função de teste
 
-function ()
-{
+void function main(){
     print("Ola Anne, td bem com voce?")
 
     print("Tudo bem e você?")
-     
-    return
+    resposta = ""
 
+    if(resposta == "Sim"){
+        esta_bem()
+
+    }else{
+        nao_esta_bem()
+    }
+    return
+}
+
+
+void function esta_bem(){
+    print("Entao continue assim")
+    return
+}
+
+
+void function nao_esta_bem(){
+    print("Entao, voce precisa de uma berita")
+    return
 }
