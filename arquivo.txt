@@ -6,7 +6,7 @@ void function main(){
     print("Tudo bem e você?")
     resposta = "Não"
 
-    if(resposta == "Sim"){
+    if(resposta == "Talvez"){
         esta_bem()
 
     }else{
