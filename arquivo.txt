@@ -4,7 +4,7 @@ void function main(){
     print("Ola Anne, td bem com voce?")
 
     print("Tudo bem e você?")
-    resposta = ""
+    resposta = "Não"
 
     if(resposta == "Sim"){
         esta_bem()
