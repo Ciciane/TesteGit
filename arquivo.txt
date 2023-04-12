@@ -1,0 +1,7 @@
+função de teste
+
+function ()
+{
+    print("Ola Anne, td bem com voce?")
+
+}
