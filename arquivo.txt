@@ -1,7 +1,7 @@
 ## função de teste
 
 void function main(){
-    print("Ola Danny, td bem com voce?")
+    print("Ola Aline, td bem com voce?")
 
     print("Tudo bem e você?")
     resposta = "Não"
