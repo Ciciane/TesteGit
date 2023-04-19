@@ -31,6 +31,6 @@ void function nao_esta_bem(){
 
 void function nova_funcao_2(){
 
-    print("Boa noite")
+    print("essa e nova funcao")
 
 }
