@@ -27,3 +27,10 @@ void function nao_esta_bem(){
     print("Entao, voce precisa de uma berita")
     return
 }
+
+
+void function nova_funcao_2(){
+
+    print("essa e nova funcao")
+
+}
